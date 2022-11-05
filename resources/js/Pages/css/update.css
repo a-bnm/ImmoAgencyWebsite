@@ -1,0 +1,19 @@
+.image-to-del{
+    width: 150px;
+    height: 150px;
+}
+
+.form-part{
+    background-color: rgb(41, 50, 66);
+}
+
+.form-btn{
+    background-color: rgb(184, 81, 40);
+    color: white;
+}
+
+.form-btn:hover{
+    background-color: white;
+    font-weight: bold;
+    color: rgb(184, 81, 40);
+}

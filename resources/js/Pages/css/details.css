@@ -1,0 +1,60 @@
+.carousel-img{
+    min-width: 100vw;
+    height: 75vh ;
+}
+
+.box-before,.box-after{
+    height:100px;
+    background-color: rgba(184, 81, 40,1);
+    border: 2px solid white;
+    color: white;
+    font-weight: bold;
+    font-size: larger;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding: 0;
+   
+}
+
+
+.box-middle{
+    height:200px;
+    background-color: rgb(41, 50, 66) ;
+    color: white;
+    font-weight: bold;
+    font-size: larger;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box-before1{
+    border-top-left-radius: 30%;
+}
+
+.box-before2{
+    border-bottom-left-radius: 30%;
+}
+
+.box-after1{
+    border-top-right-radius: 30%;
+}
+
+.box-after2{
+    border-bottom-right-radius: 30%;
+}
+
+.details-part{
+    background-color: rgb(41, 50, 66) ;
+}
+
+.btn-back,.btn-update{
+    background-color: rgb(41, 50, 66) ;
+    color: white;
+}
+
+.btn-back:hover,.btn-update:hover{
+    background-color: white ;
+    color: black;
+}

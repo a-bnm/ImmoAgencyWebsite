@@ -1,0 +1,35 @@
+.main{
+    background-color: #293242;
+}
+.add-form-image{
+    background-image: url('storage/service-img2.jpg');
+    background-size: cover;
+        
+    height: auto;
+}
+
+
+.inner-image{
+    background-color: rgba(0, 0,0,0.7);
+}
+
+.form-container{
+    background-color: #314b6e;   
+}
+
+.add-form{
+    border: 0;
+    background-color: #314b6e;    
+}
+
+.btn-form{
+    background-color: #b85128;
+    color: white;
+}
+
+.btn-form:hover{
+    border-color: #b85128;
+    background-color: white;
+    font-weight: bold;
+    color: #b85128;
+}

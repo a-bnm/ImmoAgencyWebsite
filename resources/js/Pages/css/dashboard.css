@@ -1,0 +1,86 @@
+
+
+.dashboard-header{
+    background-color:#23272e;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    
+}
+
+.dashboard-content{
+    background-color: #23272e
+}
+
+.menu-container{
+    width:200px;
+    transition: width 0.3s ease-in-out;
+    min-height: 100vh;
+    background-color:#23272e ;
+    padding-top: 35px;
+}
+
+.bm-item{
+    display: inline-block;
+    text-decoration: none;
+    transition:color 0.2s;
+}
+
+.bm-item:hover{
+    color:white;
+}
+
+
+.bm-burger-button {
+    position: fixed;
+    width: 36px;
+    height: 30px;
+    left: 36px;
+    top: 16px;
+}
+
+
+.bm-burger-bars {
+    background: rgb(64, 64, 64);
+}
+
+.bm-cross-button{
+    height: 24px;
+    width: 24px;
+}
+
+.bm-cross{
+    background-color: white;
+}
+
+.pill{
+    width: 150px;
+    border-radius: 50%;
+    background-color: #181b1f;
+    box-shadow: rgba(0, 0, 0, 0.359) 5px 8px 7px 0;
+}
+
+.graph-container{
+    height: 300px;
+    width: 80%;
+    border-radius: 15%;
+    background-color: #181b1f;
+    box-shadow: rgba(0, 0, 0, 0.359) 5px 8px 7px 0;
+    color: white;
+    margin-bottom: 50px;
+}
+
+.graph-container-big{
+    height: 600px;
+    width: 80%;
+    border-radius: 8%;
+    background-color: #181b1f;
+    box-shadow: rgba(0, 0, 0, 0.359) 5px 8px 7px 0;
+    color: white;
+    margin-bottom: 50px;
+}
+
+
+table{
+    background-color: #181b1f;
+    
+}
